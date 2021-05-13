@@ -1,0 +1,14 @@
+beautifulsoup4==4.9.3
+googletrans==3.1.0a0
+sentencepiece==0.1.95
+scikit-learn==0.24.1
+tensorflow==2.4.1
+torch==1.8.0
+transformers==4.5.1
+tensorflow-datasets==4.2.0
+rouge==1.0.0
+google-cloud-storage==1.37.1
+google-cloud-translate==3.1.0
+flask==1.1.2
+matplotlib
+seaborn==0.11.1
